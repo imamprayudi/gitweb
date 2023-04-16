@@ -26,6 +26,7 @@
     <h1>Tentang Kami</h1>
     <p>PT. Graha Indomedia Telekomunika (GIT) adalah perusahaan yang berkecimpung dalam industri multimedia dan telekomunikasi sejak tahun 2005. GIT memiliki kapasitas dan pengalaman yang luar biasa selama masa kerjanya. Dengan memiliki klien dari berbagai jenis bidang usaha, membuat GIT menjadi ahli di bidangnya.</p>
     <p>Sesuai dengan tuntutan pekerjaan GIT yang didukung tenaga ahli profesional yang berpengalaman memberikan layanan jasa solusi total mulai dari repairing, perancangan, hingga implementasi.</p>
+    <p>test git clone</p>
 </article>
 
 <img src="https://git.co.id/wp-content/uploads/2021/02/logoGIT2021-1024x1024.png"
